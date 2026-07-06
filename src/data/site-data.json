@@ -1,0 +1,36 @@
+{
+  "salon": {
+    "name": "SalonIbo",
+    "tagline": "Ihr Friseursalon in Bönen",
+    "about": "Willkommen im SalonIbo, Ihrem exklusiven Friseursalon in Bönen. Unser engagiertes Team von sieben Fachkräften bietet sowohl Damen als auch Herren individuelle Bereiche für erstklassige Dienstleistungen. Wir sind spezialisiert auf alle Arten von Friseurarbeiten und legen großen Wert auf Kundenzufriedenheit. Bei uns erleben Sie nicht nur einen Haarschnitt, sondern auch eine entspannende Auszeit. Besuchen Sie uns und lassen Sie sich von unserem professionellen Service überzeugen.",
+    "phone": "01622913434",
+    "email": "salonibo@gmail.com",
+    "address": "Bahnhofstrasse 47 Bönen",
+    "openingHours": {
+      "Sa": "09:00 - 14:00",
+      "So": "Ruhetag",
+      "Mo-fr": "09:00 - 18:00"
+    },
+    "salonType": "unisex",
+    "salonTypeLabel": "Unisex Salon",
+    "styleLevel": "mid"
+  },
+  "seo": {
+    "title": "SalonIbo – Ihr Friseur in Bönen",
+    "description": "Besuchen Sie SalonIbo in Bönen für erstklassige Friseurdienstleistungen. Vereinbaren Sie jetzt einen Termin!"
+  },
+  "content": {
+    "welcomeHeading": "Herzlich Willkommen im SalonIbo",
+    "welcomeSubtext": "Erleben Sie erstklassigen Service und individuelle Betreuung.",
+    "appointmentCta": "Termin jetzt buchen",
+    "contactHeading": "Kontaktieren Sie uns",
+    "footerText": "SalonIbo – Ihr Friseur in Bönen"
+  },
+  "images": {
+    "logo": "/images/logo_0.webp"
+  },
+  "legal": {
+    "impressum": "## Impressum\n\n**Angaben gemäß § 5 TMG**\n\nSalonIbo\nBahnhofstrasse 47 Bönen\n01622913434\nsalonibo@gmail.com\n\n**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**\nSalonIbo\n\n**Haftungsausschluss:**\nDie Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.\n\n**Urheberrecht:**\nDie durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.\n",
+    "datenschutz": "## Datenschutzerklärung\n\n**1. Datenschutz auf einen Blick**\n\nDiese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten auf unserer Website auf.\n\n**2. Verantwortliche Stelle**\n\nSalonIbo\nBahnhofstrasse 47 Bönen\nE-Mail: salonibo@gmail.com\n\n**3. Erhebung und Speicherung personenbezogener Daten**\n\nBeim Besuch unserer Website werden automatisch Informationen allgemeiner Natur erfasst (Server-Log-Dateien). Diese Daten erlauben keine Rückschlüsse auf Ihre Person.\n\n**4. Kontaktformular**\n\nWenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen gespeichert.\n\n**5. Cookies**\n\nUnsere Website verwendet Cookies. Durch die Nutzung unserer Website erklären Sie sich damit einverstanden.\n\n**6. Ihre Rechte**\n\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer gespeicherten personenbezogenen Daten.\n\n**7. Kontakt Datenschutzbeauftragter**\n\nBei Fragen zum Datenschutz wenden Sie sich an: salonibo@gmail.com\n"
+  }
+}
